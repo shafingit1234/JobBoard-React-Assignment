@@ -1,0 +1,15 @@
+.title{
+    font-weight: bold;
+}
+.display{
+    border-radius: 5px;
+    display: flex;
+    flex-direction: column;
+
+    height: 100px;
+    justify-content: space-around;
+    background-color: rgba(254, 254, 252, 0.961);
+}
+.title, .by{
+    margin-left: 10px;
+}

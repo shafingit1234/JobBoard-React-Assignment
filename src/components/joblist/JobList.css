@@ -1,0 +1,16 @@
+.job-box{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+.bttn{
+    height: 40px;
+    width: 100px;
+    background-color: orange;
+    border: none;
+    border-radius: 5px;
+    padding: 12px;
+    margin-left: 2px;
+    font-size: 0.9rem;
+    cursor: pointer;
+}
